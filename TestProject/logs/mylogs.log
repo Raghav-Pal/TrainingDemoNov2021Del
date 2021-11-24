@@ -1,0 +1,10 @@
+[INFO ] 2021-11-22 00:41:30.807 [main] Log4JDemo1 - This is information message
+[ERROR] 2021-11-22 00:41:30.811 [main] Log4JDemo1 - This is error mesage
+[INFO ] 2021-11-22 00:43:02.494 [main] Log4JDemo1 - This is information message
+[ERROR] 2021-11-22 00:43:02.498 [main] Log4JDemo1 - This is error mesage
+[INFO ] 2021-11-22 00:43:37.843 [main] Log4JDemo1 - This is information message
+[ERROR] 2021-11-22 00:43:37.847 [main] Log4JDemo1 - This is error mesage
+[TRACE] 2021-11-22 00:43:37.848 [main] Log4JDemo1 - Trace message
+[INFO ] 2021-11-22 00:46:15.296 [main] Log4JDemo1 - This is information message
+[ERROR] 2021-11-22 00:46:15.301 [main] Log4JDemo1 - This is error mesage
+[TRACE] 2021-11-22 00:46:15.301 [main] Log4JDemo1 - Trace message

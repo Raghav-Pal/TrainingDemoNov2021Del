@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite8">
+	<listeners>
+		<listener class-name="listeners.TestNGListeners"></listener>
+	</listeners>
+
+	<test thread-count="5" name="Test8">
+		<packages>
+			<package name="listeners" />
+		</packages>
+	</test> <!-- Test -->
+</suite> <!-- Suite8 -->
